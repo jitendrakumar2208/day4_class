@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 50px;
+  /* margin: 0 30px; */
+  border-bottom: 1px solid #414141;
+}
+.navbar {
+  flex: 2;
+  margin-left: 50px;
+}
+.navbar a {
+  text-decoration: none;
+  padding: 15px 20px;
+  font-size: 1.1rem;
+  color: black;
+  font-weight: bold;
+}
+.header h2 {
+  font-size: 1.5rem;
+  font-weight: bolder;
+  color: black;
+}
+.btn {
+  border: none;
+  padding: 12px 18px;
+  margin-left: 12px;
+  font-size: 0.8rem;
+  background: #fff;
+  color: #212121;
+}
+.signup {
+  background: rgb(21, 155, 4);
+  color: #fff;
+  border-radius: 8px;
+  padding: 15px 22px;
+}
